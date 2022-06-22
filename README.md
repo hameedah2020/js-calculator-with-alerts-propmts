@@ -1,1 +1,1 @@
-# js-task-1
+# a javascript calculator with alerts and prompts
